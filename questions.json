@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Jenny is baking cookies and needs 25/6 cups of flour. Is this an improper fraction, and if so, how many whole cups and additional fraction of a cup does she need?",
+        "options": [
+            "Yes, 4 ⅙ cups",
+            "Yes, 4 2⁄6 cups",
+            "No, it is a proper fraction",
+            "Yes, 5 ⅙ cups"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Timmy bought 5235 <math><mfrac bevelled='true'><mfrac><msup><mi>2</mi></msup></mfrac><mfrac><msup><mi>3</mi></msup></mfrac></mfrac></math> Thanks pounds of apples for a pie. Convert this mixed fraction to an improper fraction.",
+        "options": [
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>15706</mi></msup></mfrac><mfrac><msup><mi>3</mi></msup></mfrac></mfrac></math> pounds",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>15707</mi></msup></mfrac><mfrac><msup><mi>3</mi></msup></mfrac></mfrac></math> pounds",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>15708</mi></msup></mfrac><mfrac><msup><mi>3</mi></msup></mfrac></mfrac></math> pounds",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>15709</mi></msup></mfrac><mfrac><msup><mi>3</mi></msup></mfrac></mfrac></math> pounds"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Identify which among the following fractions is an improper fraction:",
+        "options": [
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>7147</mi></msup></mfrac><mfrac><msup><mi>7154</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>7654</mi></msup></mfrac><mfrac><msup><mi>7890</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>7632</mi></msup></mfrac><mfrac><msup><mi>7353</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>7998</mi></msup></mfrac><mfrac><msup><mi>7999</mi></msup></mfrac></mfrac></math>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Jenny has 731 <math><mfrac bevelled='true'><mfrac><msup><mi>5</mi></msup></mfrac><mfrac><msup><mi>6</mi></msup></mfrac></mfrac></math> liters of juice. Convert this mixed fraction to an improper fraction.",
+        "options": [
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>4392</mi></msup></mfrac><mfrac><msup><mi>6</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>4391</mi></msup></mfrac><mfrac><msup><mi>6</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>4393</mi></msup></mfrac><mfrac><msup><mi>6</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>4390</mi></msup></mfrac><mfrac><msup><mi>6</mi></msup></mfrac></mfrac></math>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Timmy collected <math><mfrac bevelled='true'><mfrac><msup><mi>10457</mi></msup></mfrac><mfrac><msup><mi>8</mi></msup></mfrac></mfrac></math> kilograms of recyclables. Convert this improper fraction to a mixed fraction.",
+        "options": [
+            "./assests/images/1.jpg",
+            "./assests/images/2.jpg",
+            "./assests/images/3.jpg",
+            "./assests/images/4.jpg"
+        ],
+        "correct": 3
+    }
+]
